@@ -1,5 +1,5 @@
 import {words,questions} from './data.js';
-const SUPABASE_URL='https://crffvhfpzlsccwvzdriec.supabase.co';
+const SUPABASE_URL='https://crffvhfpzlscwvzdriec.supabase.co';
 const SUPABASE_KEY='sb_publishable_VYJAUo5POjMiVnzvg3JIbw__WPOp20j';
 let authSession=null;
 const $=s=>document.querySelector(s), key='study-buddy-v1';
